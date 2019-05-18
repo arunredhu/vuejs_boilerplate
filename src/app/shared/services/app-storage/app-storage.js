@@ -11,7 +11,7 @@ export class AppStorage {
 
     /** Is storage is supported or not */
     if (!this.isSupported()) {
-      throw new Error('Storage type is not supported by browser!');
+      throw new Error('Storage is not supported by browser!');
     }
   }
 
