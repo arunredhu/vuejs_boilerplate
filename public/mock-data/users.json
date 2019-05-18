@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Arun Kumar",
+    "age": "25",
+    "profession": "Software developer"
+  },
+  {
+    "id": 2,
+    "name": "Deepak Jha",
+    "age": "32",
+    "profession": "Application Architect"
+  }
+]

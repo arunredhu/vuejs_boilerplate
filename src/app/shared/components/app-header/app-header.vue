@@ -16,6 +16,7 @@ export default {
   height: 56px;
   box-shadow: 0 0 10px 5px #efefef;
   align-items: center;
+  border-bottom: 1px solid #efefef;
 }
 
 .header-title {
