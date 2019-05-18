@@ -2,14 +2,19 @@ import { reflectKeys } from '@/app/shared/services';
 
 import { fetchUsers } from '../services';
 
+/** Initial state */
 const initialState = {
   loading: false,
   data: null,
   error: null
 };
 
+/** Prefix for mutation types and actiontypes */
 const namespacedPrefix = '[USERS]';
 
+/**
+ * Mutation types
+ */
 const mutationTypes = reflectKeys(
   [
     'USERS_DATA_SUCCESS',
