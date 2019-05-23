@@ -4,6 +4,14 @@
 
 This boilerplate is built on the top of Vue CLI 3.0. This provides an architecture which helps to write a flexible & modular large scale appliction with Vue.js
 
+# Description
+
+Below are the series of articles explaining the details of the architecture
+
+- [Architect a large scale Vue.js Application](http://bit.ly/2X1aaTf)
+- [Handle HTTP calls in a large scale Vue.js Application](http://bit.ly/2MjNL2X)
+- [Architect state management in a large scale Vue.js application](http://bit.ly/2HN8zu6)
+
 ## Project setup
 
 ```
