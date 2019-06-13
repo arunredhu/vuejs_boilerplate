@@ -14,6 +14,9 @@
 <script>
 export default {
   name: "error-boundary",
+  props: {
+    stopPropagation: Boolean
+  },
   data() {
     return {
       err: false,
@@ -25,6 +28,8 @@ export default {
     this.err = err;
     this.vm = vm;
     this.info = info;
+
+    return !this.stopPropagation;
   }
 };
 </script>
