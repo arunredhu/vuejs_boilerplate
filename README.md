@@ -11,6 +11,7 @@ Below are the series of articles explaining the details of the architecture
 - [Architect a large scale Vue.js Application](http://bit.ly/2X1aaTf)
 - [Handle HTTP calls in a large scale Vue.js Application](http://bit.ly/2MjNL2X)
 - [Architect state management in a large scale Vue.js application](http://bit.ly/2HN8zu6)
+- [Error/Exception handling in Vue.js application](http://bit.ly/2wVK1Km)
 
 ## Project setup
 
